@@ -57,13 +57,7 @@ This covers almost all the patterns that are asked in interviews.
 ---
 
 ## 🎯 Current Focus
-- Mastering **Binary Search, Sliding Window, Two Pointers, Recursion, DP, Graphs**  
+- Mastering **Binary Search, Sliding Window, Two Pointers, Recursion, DP,Graphs**  
 - Solving **NeetCode 250** one pattern at a time  
 - Tracking solutions + notes here in this repo  
-
----
-
-## 🌟 Aesthetic Vibes
-![Motivation]([https://i.imgur.com/fu4hZt2.png](https://www.google.com/imgres?q=Motivate%20image%20for%20coding&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fd1%2F8d%2F54%2Fd18d541b6571a5785f1ff27ea86b77a1.jpg&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fprogrammers-programming-motivational-code-text-development-1080p-wallpaper-hdwallpaper-desktop--597430706823230385%2F&docid=uhYLXMQnspXG-M&tbnid=HmxSW44TdP-32M&vet=12ahUKEwjiuanz_NKPAxWR4jgGHYM2DCoQM3oECB4QAA..i&w=736&h=414&hcb=2&ved=2ahUKEwjiuanz_NKPAxWR4jgGHYM2DCoQM3oECB4QAA))
-
 ---
