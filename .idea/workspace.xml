@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8cf002d-9afb-4115-8c2c-43208363d162" name="Changes" comment="Arrays Easy Problem">
+      <change afterPath="$PROJECT_DIR$/src/Blind75/longestSubstringWithoutRepeatingchars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/insertAtFront.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/printNameNTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/reverseAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion/sumOfNNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neetcode_Sheet/Blind75/buySellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Neetcode_Sheet/Blind75/buySellStock.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,36 +49,82 @@
     "Application.anagramValid.executor": "Run",
     "Application.anagramsGroup.executor": "Run",
     "Application.anagramsgroup.executor": "Run",
+    "Application.baseCode.executor": "Run",
     "Application.bubbleSort.executor": "Run",
     "Application.buySellStock.executor": "Run",
+    "Application.checkPalindrome.executor": "Run",
     "Application.concatArrays.executor": "Run",
     "Application.containerWithMostWater.executor": "Run",
     "Application.containsDuplicate.executor": "Run",
     "Application.deletionAtFirst.executor": "Run",
+    "Application.deletionAtFront.executor": "Run",
+    "Application.fibonacciNumber.executor": "Run",
+    "Application.insertAtFront.executor": "Run",
     "Application.insertionElement.executor": "Run",
     "Application.insertionSort.executor": "Run",
+    "Application.linkedListCycle.executor": "Run",
     "Application.longestCommonPrefix.executor": "Run",
+    "Application.longestSubstringWithoutRepeatingchars.executor": "Run",
     "Application.majorityElement.executor": "Run",
     "Application.majorityElementII.executor": "Run",
+    "Application.mergeKSortedLists.executor": "Run",
     "Application.mergeSort.executor": "Run",
+    "Application.mergeTwoList.executor": "Run",
+    "Application.minInSortedArray.executor": "Run",
+    "Application.printFrom1ToN.executor": "Run",
+    "Application.printNameNTimes.executor": "Run",
     "Application.productArray.executor": "Run",
     "Application.productarray.executor": "Run",
     "Application.removeElement.executor": "Run",
+    "Application.removeNthNodeFromlist.executor": "Run",
+    "Application.reorderList.executor": "Run",
+    "Application.reverseAnArray.executor": "Run",
+    "Application.reverseInLL.executor": "Run",
+    "Application.searchInRotatedSortedArray.executor": "Run",
+    "Application.searchingNodeinList.executor": "Run",
+    "Application.singlyLinkedListTraversal.executor": "Run",
     "Application.smallestAbsentPos.executor": "Run",
+    "Application.sumOfNNumbers.executor": "Run",
     "Application.threeSum.executor": "Run",
     "Application.topKFrequentElements.executor": "Run",
     "Application.traversal.executor": "Run",
     "Application.twoSum.executor": "Run",
     "Application.validPalindrome.executor": "Run",
+    "Application.validParenthesis.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.zencoder-patch-add-chat-message-raw-content": "true",
+    "RunOnceActivity.zencoder-patch-chat-storage-migration": "true",
+    "RunOnceActivity.zencoder-patch-generate-chat-message-id": "true",
+    "RunOnceActivity.zencoder-patch-migrate-custom-instruction": "true",
+    "RunOnceActivity.zencoder-patch-migrate-repo-info-to-rules": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Srivatsan/Downloads/AnonFun",
+    "last_opened_file_path": "C:/Users/Srivatsan/Downloads/Task Tracker",
     "onboarding.tips.debug.path": "C:/Users/Srivatsan/Desktop/Neetcode_Sheet/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="linkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.linkedListCycle" />
+      <module name="Neetcode_Sheet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.linkedListCycle" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -127,7 +180,24 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Blind75/longestSubstringWithoutRepeatingchars.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinkedList/removeNthNodeFromlist.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="ai.zencoder.plugin.mcp">
+    <option name="internalToolsState" value="{&quot;fetch_webpage&quot;:true,&quot;web_search&quot;:true,&quot;ExecuteShellCommand&quot;:true,&quot;file_search&quot;:true,&quot;str_replace_editor&quot;:true,&quot;list_resources&quot;:true,&quot;FileDiagnosticsTool&quot;:true,&quot;fulltext_search&quot;:true,&quot;read_resource&quot;:true,&quot;RequirementsTool&quot;:true}" />
+  </component>
+  <component name="ai.zencoder.plugin.rag.RepoInfoWarningState">
+    <option name="currentWarningState" value="true" />
+    <option name="lastCheckTime" value="1758540658727" />
   </component>
 </project>

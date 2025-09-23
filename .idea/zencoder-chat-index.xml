@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ai.zencoder.plugin.chat.index">
+    <option name="chatMetadata" value="{&quot;0cadd7f2-bbd1-4fce-a935-33ab11b3fca0&quot;:{&quot;id&quot;:&quot;0cadd7f2-bbd1-4fce-a935-33ab11b3fca0&quot;,&quot;title&quot;:&quot;Java Node Array Initialization Error&quot;,&quot;createdAt&quot;:1758561224864,&quot;updatedAt&quot;:1758561229028,&quot;isAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:2,&quot;lastMessagePreview&quot;:&quot;The user says: \&quot;Fix this: { Node lists[] = {[1,4,5],[1,3,4],[2,6]} } ']' expected\&quot;\n\n\n## Reviewing us...&quot;}}" />
+  </component>
+</project>
