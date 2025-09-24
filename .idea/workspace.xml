@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8cf002d-9afb-4115-8c2c-43208363d162" name="Changes" comment="Arrays Easy Problem">
-      <change afterPath="$PROJECT_DIR$/src/Blind75/longestSubstringWithoutRepeatingchars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/insertAtFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/printNameNTimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/reverseAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion/sumOfNNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Neetcode_Sheet/Blind75/buySellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Neetcode_Sheet/Blind75/buySellStock.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +53,11 @@
     "Application.deletionAtFirst.executor": "Run",
     "Application.deletionAtFront.executor": "Run",
     "Application.fibonacciNumber.executor": "Run",
+    "Application.inrodertraversal.executor": "Run",
     "Application.insertAtFront.executor": "Run",
     "Application.insertionElement.executor": "Run",
     "Application.insertionSort.executor": "Run",
+    "Application.levelOrderTraversal.executor": "Run",
     "Application.linkedListCycle.executor": "Run",
     "Application.longestCommonPrefix.executor": "Run",
     "Application.longestSubstringWithoutRepeatingchars.executor": "Run",
@@ -98,7 +94,7 @@
     "RunOnceActivity.zencoder-patch-generate-chat-message-id": "true",
     "RunOnceActivity.zencoder-patch-migrate-custom-instruction": "true",
     "RunOnceActivity.zencoder-patch-migrate-repo-info-to-rules": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Merging master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Srivatsan/Downloads/Task Tracker",
     "onboarding.tips.debug.path": "C:/Users/Srivatsan/Desktop/Neetcode_Sheet/src/Main.java",
