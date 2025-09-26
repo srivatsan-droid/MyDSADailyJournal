@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8cf002d-9afb-4115-8c2c-43208363d162" name="Changes" comment="Arrays Easy Problem">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blind75/SubtreeOfAnotherTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blind75/invertTheBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revision/containsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revision/majorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revision/validAnagram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +44,7 @@
     "Application.LinearSearch.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.SubtreeOfAnotherTree.executor": "Run",
     "Application.anagramValid.executor": "Run",
     "Application.anagramsGroup.executor": "Run",
     "Application.anagramsgroup.executor": "Run",
@@ -48,21 +53,29 @@
     "Application.buySellStock.executor": "Run",
     "Application.checkPalindrome.executor": "Run",
     "Application.concatArrays.executor": "Run",
+    "Application.concatenationOfArray.executor": "Run",
     "Application.containerWithMostWater.executor": "Run",
     "Application.containsDuplicate.executor": "Run",
     "Application.deletionAtFirst.executor": "Run",
     "Application.deletionAtFront.executor": "Run",
     "Application.fibonacciNumber.executor": "Run",
+    "Application.identicalTrees.executor": "Run",
     "Application.inrodertraversal.executor": "Run",
     "Application.insertAtFront.executor": "Run",
+    "Application.insertInBinaryTree.executor": "Run",
     "Application.insertionElement.executor": "Run",
     "Application.insertionSort.executor": "Run",
+    "Application.invertTheBinaryTree.executor": "Run",
+    "Application.kthSmallestNode.executor": "Run",
     "Application.levelOrderTraversal.executor": "Run",
     "Application.linkedListCycle.executor": "Run",
     "Application.longestCommonPrefix.executor": "Run",
     "Application.longestSubstringWithoutRepeatingchars.executor": "Run",
+    "Application.lowestCommonAncestor.executor": "Run",
     "Application.majorityElement.executor": "Run",
     "Application.majorityElementII.executor": "Run",
+    "Application.maxHeightOfTree.executor": "Run",
+    "Application.maxMinTree.executor": "Run",
     "Application.mergeKSortedLists.executor": "Run",
     "Application.mergeSort.executor": "Run",
     "Application.mergeTwoList.executor": "Run",
@@ -76,17 +89,21 @@
     "Application.reorderList.executor": "Run",
     "Application.reverseAnArray.executor": "Run",
     "Application.reverseInLL.executor": "Run",
+    "Application.searchInBinaryTree.executor": "Run",
     "Application.searchInRotatedSortedArray.executor": "Run",
     "Application.searchingNodeinList.executor": "Run",
     "Application.singlyLinkedListTraversal.executor": "Run",
     "Application.smallestAbsentPos.executor": "Run",
+    "Application.subtreeOfAnotherTree.executor": "Run",
     "Application.sumOfNNumbers.executor": "Run",
     "Application.threeSum.executor": "Run",
     "Application.topKFrequentElements.executor": "Run",
     "Application.traversal.executor": "Run",
     "Application.twoSum.executor": "Run",
+    "Application.validAnagram.executor": "Run",
     "Application.validPalindrome.executor": "Run",
     "Application.validParenthesis.executor": "Run",
+    "Application.validateBinaryTree.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.zencoder-patch-add-chat-message-raw-content": "true",
@@ -94,9 +111,9 @@
     "RunOnceActivity.zencoder-patch-generate-chat-message-id": "true",
     "RunOnceActivity.zencoder-patch-migrate-custom-instruction": "true",
     "RunOnceActivity.zencoder-patch-migrate-repo-info-to-rules": "true",
-    "git-widget-placeholder": "Merging master",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Srivatsan/Downloads/Task Tracker",
+    "last_opened_file_path": "C:/Users/Srivatsan/Downloads/myFirstApi",
     "onboarding.tips.debug.path": "C:/Users/Srivatsan/Desktop/Neetcode_Sheet/src/Main.java",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -138,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756833956534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Arrays Easy Problem">
+      <option name="closed" value="true" />
+      <created>1758695095967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758695095967</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
